@@ -1,8 +1,8 @@
 const text = "Hello World and Coders";
  
-function reverseEachWord(str) {
+function reverseItAll(str) {
   return str.split('').reverse().join('');
 }
  
-const result = reverseEachWord(text);
+const result = reverseItAll(text);
 console.log('result', result);
