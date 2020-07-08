@@ -1,7 +1,7 @@
 const text = "Oskar";
 
 function hello(str) {
-  return "Hello, " + str;
+  return "Hi, " + str;
 }
  
 const result = hello(text);
